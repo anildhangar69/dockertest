@@ -10,7 +10,7 @@ public class WelComeController {
     @GetMapping("/welcome")
     public String welcome(Model m){
         m.addAttribute("name","Anil");
-        return "index";
+        return "indexx";
 
     }
 }
