@@ -11,6 +11,4 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-
-	// first commit 1 st
 }
