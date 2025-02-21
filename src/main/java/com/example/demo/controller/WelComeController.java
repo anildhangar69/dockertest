@@ -11,6 +11,6 @@ public class WelComeController {
     public String welcome(Model m){
         m.addAttribute("name","Anil");
         return "indexx";
-
+     //
     }
 }
